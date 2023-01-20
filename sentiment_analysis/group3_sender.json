@@ -1,0 +1,7559 @@
+{
+    "documentSentiment": {
+        "magnitude": 243.1,
+        "score": 0
+    },
+    "language": "en",
+    "sentences": [
+        {
+            "text": {
+                "content": "OK let's start as we decided already.",
+                "beginOffset": 1
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "uh you are experienced so let's start first with you.",
+                "beginOffset": 39
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "you are the driver and i can read the navigator for this task at least please and then we can see what we can do.",
+                "beginOffset": 93
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "We should decide each by ourselves or it doesn't matter?",
+                "beginOffset": 207
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "uh, they didn't say this is one will come as input or it will be just.",
+                "beginOffset": 265
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Does a fixed static.  isn't written there?",
+                "beginOffset": 336
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Complete metafunction converts.",
+                "beginOffset": 379
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "And.",
+                "beginOffset": 411
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "I think this will be input.",
+                "beginOffset": 416
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 444
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "We can accept any input and output.",
+                "beginOffset": 450
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "And what we will do here we will firstly change to the camel case and secondly we need to remove the underscore here.",
+                "beginOffset": 487
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 606
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, yeah, also there is that ship.",
+                "beginOffset": 610
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 645
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "OK, nice.",
+                "beginOffset": 651
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Let's try one method here.",
+                "beginOffset": 661
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Didn't see.",
+                "beginOffset": 688
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "It will return a string.",
+                "beginOffset": 701
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "If it is so in java.",
+                "beginOffset": 726
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Yes.",
+                "beginOffset": 747
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Again we are accepting one input.",
+                "beginOffset": 752
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 786
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Now, we should decide.",
+                "beginOffset": 790
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Oh how to search inside the string that we can find if there is any dash or underscore?",
+                "beginOffset": 813
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "hmm oh you can search if there is split method because it in c#.",
+                "beginOffset": 901
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "We have a split method, I believe we have it in Java also.",
+                "beginOffset": 966
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "We can Google.",
+                "beginOffset": 1025
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "We can use Google and get it.",
+                "beginOffset": 1040
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "here We should have a string array.",
+                "beginOffset": 1070
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, we should find which library we should import, because it will not come without importing.",
+                "beginOffset": 1106
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Let's see if it will.",
+                "beginOffset": 1201
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 1223
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Oh, it doesn't.",
+                "beginOffset": 1227
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Correct.",
+                "beginOffset": 1243
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": 0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Instead of us yes.",
+                "beginOffset": 1252
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "What should we import?",
+                "beginOffset": 1272
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "We can try like that.",
+                "beginOffset": 1296
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "First.",
+                "beginOffset": 1318
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Let's say you can't uh, first element of the array.",
+                "beginOffset": 1325
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 1377
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "We can.",
+                "beginOffset": 1382
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe we need to write inside of class or?",
+                "beginOffset": 1391
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Oh, please.",
+                "beginOffset": 1434
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "What did what do you have said?",
+                "beginOffset": 1447
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Sorry.",
+                "beginOffset": 1479
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "When you went there.",
+                "beginOffset": 1486
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 1507
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "And maybe we can write inside.",
+                "beginOffset": 1513
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Shouldn't be matter what makes.",
+                "beginOffset": 1544
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "One shouldn't be matter.",
+                "beginOffset": 1576
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah, here.",
+                "beginOffset": 1602
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "I believe we should import some files here.",
+                "beginOffset": 1614
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "For example to use string here should be some important files that you can use string Please.",
+                "beginOffset": 1658
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "This is yet to come.",
+                "beginOffset": 1752
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "What do you say?",
+                "beginOffset": 1773
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Is it allowed to check from eclipse?",
+                "beginOffset": 1790
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "How many minutes we have?",
+                "beginOffset": 1828
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe we.",
+                "beginOffset": 1855
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 1865
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Oh.",
+                "beginOffset": 1870
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Here it's it's OK, but there.",
+                "beginOffset": 1874
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Doesn't.",
+                "beginOffset": 1904
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Wait.",
+                "beginOffset": 1914
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "I will Package.",
+                "beginOffset": 1921
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "For example, we already installed all needed packages.",
+                "beginOffset": 1937
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Or we should we can add more packages.",
+                "beginOffset": 1992
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 2032
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 2036
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "So, uh, let's go step by step.",
+                "beginOffset": 2041
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe we can.",
+                "beginOffset": 2073
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Visual studio code java.",
+                "beginOffset": 2087
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Here.",
+                "beginOffset": 2112
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Install new according package for Java.",
+                "beginOffset": 2118
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "You know.",
+                "beginOffset": 2158
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Who opened this project for us?",
+                "beginOffset": 2168
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "They they used this product.",
+                "beginOffset": 2200
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "maybe we can start from create new project.",
+                "beginOffset": 2230
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe because of that I shared this one I need to.",
+                "beginOffset": 2275
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "And and able to create a folder and I need to check let me check.",
+                "beginOffset": 2326
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "yes.",
+                "beginOffset": 2393
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "I am sharing.",
+                "beginOffset": 2398
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "What was that?",
+                "beginOffset": 2413
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "why didn't you want to create a new project?",
+                "beginOffset": 2429
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, we can uh.",
+                "beginOffset": 2475
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Here we can create different project like a folder and on the folder file.",
+                "beginOffset": 2490
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Structure should be like that, but project normally then I'm creating new project.",
+                "beginOffset": 2566
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Umm.",
+                "beginOffset": 2649
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Here I don't know how it's in Java but but in C# under solution you can create a lot of projects like project file extension for example.",
+                "beginOffset": 2654
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "It can be console projects.",
+                "beginOffset": 2792
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Just console will show like this.",
+                "beginOffset": 2820
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "This is console project for example.",
+                "beginOffset": 2854
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Displayed in the console.",
+                "beginOffset": 2891
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Are you managing?",
+                "beginOffset": 2918
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Are you?",
+                "beginOffset": 2936
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Anything.",
+                "beginOffset": 2945
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "You know that?",
+                "beginOffset": 2955
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "The only one.",
+                "beginOffset": 2970
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Because I, uh, you couldn't.",
+                "beginOffset": 2984
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "No, no, I don't like what I'm doing.",
+                "beginOffset": 3013
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "There up to my blog there is life share Workspace live share with bold letters.",
+                "beginOffset": 3051
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Here some there is add folder option.",
+                "beginOffset": 3131
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "One one more quick, one more time.",
+                "beginOffset": 3169
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah, yes, here in right folder and file you can new file and new folder.",
+                "beginOffset": 3204
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Do you mean Maybe, I mean.",
+                "beginOffset": 3278
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "see it it's understand that this is Java code Java project.",
+                "beginOffset": 3305
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "But in our case it didn't understand that this is Java OK.",
+                "beginOffset": 3365
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "But there you see create our project we should create a project.",
+                "beginOffset": 3424
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Under general project we can add Java files.",
+                "beginOffset": 3489
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "yes and we can open Visual Studio a first page or it should be somewhere here.",
+                "beginOffset": 3535
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "File, new file, new window, open file and folder.",
+                "beginOffset": 3614
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Oh, it's different than Visual Studio.",
+                "beginOffset": 3664
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "It's different here.",
+                "beginOffset": 3703
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Can you also send me that link with this quick start Java?",
+                "beginOffset": 3725
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "I see yours.",
+                "beginOffset": 3786
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Do you see your phone?",
+                "beginOffset": 3800
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Anything row?",
+                "beginOffset": 3823
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Is this yours?",
+                "beginOffset": 3837
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "What is it?",
+                "beginOffset": 3853
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Oh,  OK, OK, this is OK.",
+                "beginOffset": 3865
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "This is because of live share.",
+                "beginOffset": 3890
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "That's why it's like that.",
+                "beginOffset": 3921
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Yes.",
+                "beginOffset": 3948
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "OK, fine.",
+                "beginOffset": 3953
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 3963
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Actually time is up for this task.",
+                "beginOffset": 3967
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "We should set environment after that we can start to solve task.",
+                "beginOffset": 4003
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Why not?",
+                "beginOffset": 4068
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Why didn't do that you actually assaulted?",
+                "beginOffset": 4077
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe you already know it.",
+                "beginOffset": 4120
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "No, this is almost first time I'm using the Visual Studio.",
+                "beginOffset": 4147
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "We are you programming with.",
+                "beginOffset": 4206
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Studio came.",
+                "beginOffset": 4235
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "When?",
+                "beginOffset": 4248
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "And then?",
+                "beginOffset": 4254
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "OK then start from beginning.",
+                "beginOffset": 4265
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Let's set the environment after that.",
+                "beginOffset": 4295
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 4333
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Did you, uh, try to join again?",
+                "beginOffset": 4339
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, you know, after your name is there.",
+                "beginOffset": 4371
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Yes, that is true.",
+                "beginOffset": 4411
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "So you should see now.",
+                "beginOffset": 4430
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Gulnar, I want to reload .",
+                "beginOffset": 4454
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Let me check.",
+                "beginOffset": 4481
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Um, because each time I need to give it access to you.",
+                "beginOffset": 4495
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "But I couldn't see again you in the room.",
+                "beginOffset": 4550
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 4592
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Did you maybe?",
+                "beginOffset": 4598
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, let me share.",
+                "beginOffset": 4613
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Let me restart the video go to studio because.",
+                "beginOffset": 4632
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Or who created this?",
+                "beginOffset": 4679
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "My blog part.",
+                "beginOffset": 4700
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "To turn are you here?",
+                "beginOffset": 4714
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah, I will again send you.",
+                "beginOffset": 4737
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "I just reward the Visual Studio good.",
+                "beginOffset": 4766
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": 0.8
+            }
+        },
+        {
+            "text": {
+                "content": "While I was suspicious about maybe I didn't complete the installation of Java package.",
+                "beginOffset": 4804
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "So, OK?",
+                "beginOffset": 4891
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Oh, Can you set this is project?",
+                "beginOffset": 4899
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Are you , work together with tALHE?.",
+                "beginOffset": 4932
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "He is.",
+                "beginOffset": 4969
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "We are again the same.",
+                "beginOffset": 4976
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "I put the same purpose.",
+                "beginOffset": 4999
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "this collaboration station is no longer active.",
+                "beginOffset": 5024
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 5072
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 5078
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Open.",
+                "beginOffset": 5082
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Yes.",
+                "beginOffset": 5088
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "He's.",
+                "beginOffset": 5093
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "And you drive, right.",
+                "beginOffset": 5099
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Again the same problem.",
+                "beginOffset": 5121
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Oh.",
+                "beginOffset": 5145
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Even.",
+                "beginOffset": 5149
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Can you try once again?",
+                "beginOffset": 5156
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Is this same link?.",
+                "beginOffset": 5181
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "It didn't ask anything for me.",
+                "beginOffset": 5202
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Uh.",
+                "beginOffset": 5234
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Invite participant.",
+                "beginOffset": 5239
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Trying to see.",
+                "beginOffset": 5259
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Before, at least you were able to join.",
+                "beginOffset": 5274
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Now.",
+                "beginOffset": 5314
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "You see me?",
+                "beginOffset": 5320
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah, now.",
+                "beginOffset": 5332
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "could you edit or no?",
+                "beginOffset": 5344
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "New problem.",
+                "beginOffset": 5367
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "The public type program must be defined in its own file.",
+                "beginOffset": 5380
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Only files.",
+                "beginOffset": 5437
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "You can add file here.",
+                "beginOffset": 5449
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "New plan, OK.",
+                "beginOffset": 5472
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "No.",
+                "beginOffset": 5486
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 5491
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK, great.",
+                "beginOffset": 5495
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Oh yeah, here it recognize this is java file .",
+                "beginOffset": 5506
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "This is fine.",
+                "beginOffset": 5553
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "I refresh again because package was installed but I didn't reload the Visual Studio code.",
+                "beginOffset": 5569
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Are you?",
+                "beginOffset": 5660
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 5669
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK, OK.",
+                "beginOffset": 5673
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "So now you can start to make task?",
+                "beginOffset": 5681
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "What should we do?",
+                "beginOffset": 5716
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "And Now we need main class in Java to test it.",
+                "beginOffset": 5735
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Name of the?",
+                "beginOffset": 5782
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Thanks.",
+                "beginOffset": 5795
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "hmm.",
+                "beginOffset": 5803
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "what was named in java.",
+                "beginOffset": 5809
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Thanks.",
+                "beginOffset": 5833
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Sorry.",
+                "beginOffset": 5841
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Yes, now you can.",
+                "beginOffset": 5848
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Oh.",
+                "beginOffset": 5866
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "3.",
+                "beginOffset": 5870
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "No.",
+                "beginOffset": 5873
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 5877
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "So I see as I remember.",
+                "beginOffset": 5884
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Wait.",
+                "beginOffset": 5909
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "What happened? .",
+                "beginOffset": 5915
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "One and one.",
+                "beginOffset": 5932
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 5945
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "We don't.",
+                "beginOffset": 5950
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "I don't understand.",
+                "beginOffset": 5960
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Actually it's installed.",
+                "beginOffset": 5980
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Debugger for Java is already installed.",
+                "beginOffset": 6005
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, it doesn't even.",
+                "beginOffset": 6045
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Right.",
+                "beginOffset": 6066
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "So I don't really understand.",
+                "beginOffset": 6073
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "I see a little bit different.",
+                "beginOffset": 6104
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe I'm the host.",
+                "beginOffset": 6134
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "There is a uninstall button disable.",
+                "beginOffset": 6154
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Switch to previous version.",
+                "beginOffset": 6191
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Let's use code.",
+                "beginOffset": 6219
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Press F5 to.",
+                "beginOffset": 6235
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "On the code that we need.",
+                "beginOffset": 6248
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe we should import that file here.",
+                "beginOffset": 6275
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "The name of debugger.",
+                "beginOffset": 6314
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "What's the name of that package, I think or the one or?",
+                "beginOffset": 6336
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "The debugger for java extension is not available for web.",
+                "beginOffset": 6393
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Oh OK hey, this is not available for web.",
+                "beginOffset": 6451
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "You can do it, yeah.",
+                "beginOffset": 6494
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 6515
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 6521
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "What I need to do   Yes, there is a some bugs.",
+                "beginOffset": 6528
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "yes, there is.",
+                "beginOffset": 6576
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "There is a lot of them.",
+                "beginOffset": 6591
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 6615
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Can you see?",
+                "beginOffset": 6621
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK, perfect.",
+                "beginOffset": 6634
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": 0.8
+            }
+        },
+        {
+            "text": {
+                "content": "You see the output?",
+                "beginOffset": 6648
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "What do you see?",
+                "beginOffset": 6669
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "not applicable argument chart OK, it shouldn't be char.",
+                "beginOffset": 6687
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "It should be string run it again.",
+                "beginOffset": 6743
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "It's own file?.",
+                "beginOffset": 6778
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe we need to import?",
+                "beginOffset": 6795
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "In own file.",
+                "beginOffset": 6820
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Here we have two time public, with public static.",
+                "beginOffset": 6833
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Why do we have?",
+                "beginOffset": 6883
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Here in the sorting in the wrong part.",
+                "beginOffset": 6899
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "No, this is here.",
+                "beginOffset": 6938
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "This one shouldn't be here.",
+                "beginOffset": 6957
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "This one is a single and this is one more this one.",
+                "beginOffset": 6985
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 7037
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 7041
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "And we.",
+                "beginOffset": 7045
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Why it shows this incorrect must be defined in known file.",
+                "beginOffset": 7053
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "I mean, I mean do you know what I mean?",
+                "beginOffset": 7113
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Here in 13 row 13, line 13 there is public static void and again public static void.",
+                "beginOffset": 7153
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "What it say?",
+                "beginOffset": 7239
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Problem is not this one but let s do it.",
+                "beginOffset": 7252
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Solution.",
+                "beginOffset": 7294
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Wait.",
+                "beginOffset": 7304
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "You also ready?",
+                "beginOffset": 7310
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Oh, you couldn't see what I'm writing?",
+                "beginOffset": 7326
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Why it is so?",
+                "beginOffset": 7366
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "What you write.",
+                "beginOffset": 7381
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Because of system scanner when we scan anything.",
+                "beginOffset": 7398
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "So we have two main.",
+                "beginOffset": 7448
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Where is it come from.",
+                "beginOffset": 7469
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Where is the two main?",
+                "beginOffset": 7493
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Can you put from?",
+                "beginOffset": 7518
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "You couldn't?  is there 10 problems?",
+                "beginOffset": 7537
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Then this is the old.",
+                "beginOffset": 7575
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "You can do again?.",
+                "beginOffset": 7597
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "I close it because.",
+                "beginOffset": 7616
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "And what did you say?",
+                "beginOffset": 7637
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 7660
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Yes, I did.",
+                "beginOffset": 7664
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "What do you see?",
+                "beginOffset": 7676
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "What you see there is.",
+                "beginOffset": 7693
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Two task, one tab on your Visual Studio code.",
+                "beginOffset": 7716
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Why?",
+                "beginOffset": 7762
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "What do you mean here?",
+                "beginOffset": 7768
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "We can search for it.",
+                "beginOffset": 7791
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "We have written following.",
+                "beginOffset": 7813
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Our time is up, so we can go for other task.",
+                "beginOffset": 7841
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, is that because of this?",
+                "beginOffset": 7887
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Yet still, we didn't.",
+                "beginOffset": 7917
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 7939
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Let's take this.",
+                "beginOffset": 7945
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "So do you want to write inside one file or with your intention?",
+                "beginOffset": 7963
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "can you run this one?",
+                "beginOffset": 8027
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK then great, I know what's the problem then OK, we don't need this part.",
+                "beginOffset": 8049
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, putting it here?",
+                "beginOffset": 8124
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Remove this from here?",
+                "beginOffset": 8145
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 8168
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 8173
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "I don't have this one.",
+                "beginOffset": 8177
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Removing this one.",
+                "beginOffset": 8200
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Inside the it should be.",
+                "beginOffset": 8219
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "What it's like when I try to remove this part?",
+                "beginOffset": 8244
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "What was happening when you wanted to write?",
+                "beginOffset": 8291
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Remove it?",
+                "beginOffset": 8336
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Can you run this one?",
+                "beginOffset": 8347
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK, OK, OK, OK, I know what's the problem.",
+                "beginOffset": 8369
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "OK, task one.",
+                "beginOffset": 8412
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 8426
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Ca you run again?",
+                "beginOffset": 8430
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "What you see.",
+                "beginOffset": 8448
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "At one.",
+                "beginOffset": 8462
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Who do you see the errors?",
+                "beginOffset": 8471
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Or?",
+                "beginOffset": 8498
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Is it problem part?",
+                "beginOffset": 8503
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "What's the name of our class here?",
+                "beginOffset": 8523
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "That's why we need to import task  one no?",
+                "beginOffset": 8558
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Oh, can you debug it?",
+                "beginOffset": 8602
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Oh, I mean you here, I don't know how to put breakpoints.",
+                "beginOffset": 8625
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "What's happened?",
+                "beginOffset": 8683
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "need To click problems on programs or?.",
+                "beginOffset": 8701
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "debug part for evaluate session?",
+                "beginOffset": 8742
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Um, you started??",
+                "beginOffset": 8775
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Did you put some breakpoint?in which line?.  in order to debug we have to put breakpoint there.",
+                "beginOffset": 8793
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK, OK.",
+                "beginOffset": 8889
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 8897
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "So.",
+                "beginOffset": 8901
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Function.",
+                "beginOffset": 8905
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Transistor.",
+                "beginOffset": 8915
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "It is positive parameter normal and return is complicated persistent which is among row trying to much more complicated business and now until you reach the single digit.",
+                "beginOffset": 8927
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 9098
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "I mean.",
+                "beginOffset": 9102
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Because.",
+                "beginOffset": 9110
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 9119
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 9124
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, for this we have to open new file or we we can we can.",
+                "beginOffset": 9128
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "I already open the two more fire for other tasks then we can upload.",
+                "beginOffset": 9188
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "OK, we can.",
+                "beginOffset": 9258
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Second one, second one with it said.",
+                "beginOffset": 9270
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "What to put the?",
+                "beginOffset": 9308
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Persistence forest.",
+                "beginOffset": 9325
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "What kind of?",
+                "beginOffset": 9345
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah, it's says except one input, but in the first task.",
+                "beginOffset": 9359
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "It didn't say that.",
+                "beginOffset": 9416
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 9437
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "First putting here also one main method to check.",
+                "beginOffset": 9441
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "You see here it's double again.",
+                "beginOffset": 9491
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "It puts this one here.",
+                "beginOffset": 9523
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah it was the problem?",
+                "beginOffset": 9547
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah, I'm getting it from here and putting.",
+                "beginOffset": 9573
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Class name is now class two.",
+                "beginOffset": 9617
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Class name  should be upper.",
+                "beginOffset": 9646
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 9675
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Let's.",
+                "beginOffset": 9681
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Ah, OK, maybe that's why.",
+                "beginOffset": 9689
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 9715
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "What did you did?",
+                "beginOffset": 9721
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "No.",
+                "beginOffset": 9739
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Now it's updated.",
+                "beginOffset": 9743
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK, I'm sending number, let s saying this one.",
+                "beginOffset": 9762
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "This.",
+                "beginOffset": 9809
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "No, it is int not integer OK.",
+                "beginOffset": 9815
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Return.",
+                "beginOffset": 9845
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "I'm just testing just, uh, can you click the run?",
+                "beginOffset": 9853
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Do you see any any unresolved compilation problem in the main?",
+                "beginOffset": 9904
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Why there is no problem?",
+                "beginOffset": 9967
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Oh why?",
+                "beginOffset": 9993
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Where you see problem?",
+                "beginOffset": 10001
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Where is freedom static?",
+                "beginOffset": 10025
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Static.",
+                "beginOffset": 10050
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "it was on my Visual Studio like stati.",
+                "beginOffset": 10058
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "In yours I see that it's correct but.",
+                "beginOffset": 10098
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "So strange.",
+                "beginOffset": 10137
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "So strange.",
+                "beginOffset": 10149
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "So we had to use this live share one share or it's optional?",
+                "beginOffset": 10162
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 10224
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "I didn't like it.",
+                "beginOffset": 10228
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": -0.9
+            }
+        },
+        {
+            "text": {
+                "content": "Everything looks good in your page.",
+                "beginOffset": 10246
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "Your screen.",
+                "beginOffset": 10282
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Can you test it?",
+                "beginOffset": 10295
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "And do you mean would would?",
+                "beginOffset": 10313
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Do you wanna from me to test ?",
+                "beginOffset": 10342
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "It's possible to run this file?",
+                "beginOffset": 10374
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "If Not possible.",
+                "beginOffset": 10406
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "No need to continue.",
+                "beginOffset": 10423
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "We have to set the environment.",
+                "beginOffset": 10444
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Do you want one of from me to run this code?",
+                "beginOffset": 10477
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "I did several times.",
+                "beginOffset": 10523
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "What you see?",
+                "beginOffset": 10545
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Five past two must be defined.",
+                "beginOffset": 10560
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK, let's maybe it's because of upper and changing.",
+                "beginOffset": 10591
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Now you can run it  It's OK, you see the input?",
+                "beginOffset": 10644
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Is there no problem?",
+                "beginOffset": 10692
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "You should see Three, in the console You don't see.",
+                "beginOffset": 10713
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK, great.",
+                "beginOffset": 10766
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Now we can do that.",
+                "beginOffset": 10777
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 10799
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 10803
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 10807
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 10811
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Now, we have to think about the solution.",
+                "beginOffset": 10815
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "I found One solution, but I'm not sure it.",
+                "beginOffset": 10857
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Oh.",
+                "beginOffset": 10901
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "we can convert it to string then say our inputs 375 OK and.",
+                "beginOffset": 10905
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Get all the digits.",
+                "beginOffset": 10965
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "And.",
+                "beginOffset": 10985
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Oh.",
+                "beginOffset": 10990
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Calculate them.",
+                "beginOffset": 10994
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Let's repeat it until the digit is 1.",
+                "beginOffset": 11010
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, one digit  is there.",
+                "beginOffset": 11048
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK, but this is my solution we can try.",
+                "beginOffset": 11074
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 11114
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "3.",
+                "beginOffset": 11118
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Then.",
+                "beginOffset": 11121
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "This number.",
+                "beginOffset": 11127
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "value okay.",
+                "beginOffset": 11141
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "3 value of.",
+                "beginOffset": 11153
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "And while while Um.",
+                "beginOffset": 11165
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Great the number than 1.",
+                "beginOffset": 11185
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": 0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Then one yes.",
+                "beginOffset": 11210
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah, if it's one.",
+                "beginOffset": 11225
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Then it will be, yeah, we will return this one back.",
+                "beginOffset": 11244
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "This one but uh, connecting to int.",
+                "beginOffset": 11297
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 11333
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Uh,string to int in java  clean.",
+                "beginOffset": 11337
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "integer parse it?",
+                "beginOffset": 11371
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Why you can't see mine?",
+                "beginOffset": 11389
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Of course.",
+                "beginOffset": 11413
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "value of this one yes.",
+                "beginOffset": 11426
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": 0.8
+            }
+        },
+        {
+            "text": {
+                "content": "now.",
+                "beginOffset": 11449
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "We will check.",
+                "beginOffset": 11454
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, let's say this is 325.",
+                "beginOffset": 11469
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 11496
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Oh.",
+                "beginOffset": 11501
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Str number.",
+                "beginOffset": 11505
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Then you're getting the length.",
+                "beginOffset": 11518
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 11550
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Is it in?",
+                "beginOffset": 11555
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "And.",
+                "beginOffset": 11565
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Oh.",
+                "beginOffset": 11570
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "And.",
+                "beginOffset": 11574
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 11579
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "And.",
+                "beginOffset": 11583
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "for.",
+                "beginOffset": 11588
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Yes.",
+                "beginOffset": 11593
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Umm.",
+                "beginOffset": 11598
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "OK, OK.",
+                "beginOffset": 11603
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 11611
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 11615
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "And yes, zero.",
+                "beginOffset": 11619
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Yes and 10 equal, yes.",
+                "beginOffset": 11634
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Str number.",
+                "beginOffset": 11657
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, this one?",
+                "beginOffset": 11669
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "I'm getting this from here.",
+                "beginOffset": 11683
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "put  In this inside.",
+                "beginOffset": 11711
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe i yes.",
+                "beginOffset": 11732
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Uh.",
+                "beginOffset": 11745
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Let us do it one.",
+                "beginOffset": 11749
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 11767
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "OK, after all of them, Str number again will be this one.",
+                "beginOffset": 11774
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, no, not this one.",
+                "beginOffset": 11832
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Yes.",
+                "beginOffset": 11855
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Uh.",
+                "beginOffset": 11860
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Of not str.",
+                "beginOffset": 11864
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah, this one.",
+                "beginOffset": 11876
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Will be 10.",
+                "beginOffset": 11892
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": 0.8
+            }
+        },
+        {
+            "text": {
+                "content": "next.",
+                "beginOffset": 11905
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "It should work like that.",
+                "beginOffset": 11911
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Let's say we accept 325 yes no string  325 because length more than one we entered here.",
+                "beginOffset": 11937
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, we get blanks.",
+                "beginOffset": 12026
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "No need to do this one.",
+                "beginOffset": 12045
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "You can put it here.",
+                "beginOffset": 12069
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Now we said some be OK 1,10th no, we are calculating it's 3.",
+                "beginOffset": 12091
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "3.",
+                "beginOffset": 12152
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "This is 3,3,2,6, yes, 35, yes.",
+                "beginOffset": 12155
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Thank you.",
+                "beginOffset": 12186
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": 0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Then will be 30.",
+                "beginOffset": 12197
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Yes.",
+                "beginOffset": 12214
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Now our new number is Str number is 13.",
+                "beginOffset": 12219
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Yes.",
+                "beginOffset": 12259
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "And he explained more than one.",
+                "beginOffset": 12264
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Yes, it's more than one.",
+                "beginOffset": 12296
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 12322
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Can you test it with number?",
+                "beginOffset": 12328
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Result to, set, theory.",
+                "beginOffset": 12358
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "again  is something.",
+                "beginOffset": 12382
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "What you see .",
+                "beginOffset": 12403
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "What you see in your screen.",
+                "beginOffset": 12418
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, no, no, no.",
+                "beginOffset": 12447
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe there is bug, but.",
+                "beginOffset": 12463
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "What I see?",
+                "beginOffset": 12488
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Uh.",
+                "beginOffset": 12500
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK, return inside you can't be resolved.",
+                "beginOffset": 12504
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Mm-hmm.",
+                "beginOffset": 12545
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Return integer vwhere is return integer, return this one this.",
+                "beginOffset": 12553
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Oh, can't be resolved.",
+                "beginOffset": 12616
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "It's not working.",
+                "beginOffset": 12639
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": -0.9
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe this is not working.",
+                "beginOffset": 12657
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "This is not correct.",
+                "beginOffset": 12684
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Let's do this one.",
+                "beginOffset": 12705
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "integer this one, this one?",
+                "beginOffset": 12725
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Not not right.",
+                "beginOffset": 12753
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 12768
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "You do?",
+                "beginOffset": 12773
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "What  integer ?",
+                "beginOffset": 12781
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "You entered as input.",
+                "beginOffset": 12797
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK, this one OK.",
+                "beginOffset": 12819
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "It should return five.",
+                "beginOffset": 12836
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Who did you?",
+                "beginOffset": 12859
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "It returned five.",
+                "beginOffset": 12872
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "What is  the problem.",
+                "beginOffset": 12891
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "type of expression must be an array type, but it is resolved str string.",
+                "beginOffset": 12914
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Where it should be array type.  is it different than mine?",
+                "beginOffset": 12987
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Can you change what you see here?",
+                "beginOffset": 13047
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK, just click again.",
+                "beginOffset": 13082
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Run.",
+                "beginOffset": 13104
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "And what you see here is the same as yours.",
+                "beginOffset": 13110
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "can you drop down?",
+                "beginOffset": 13154
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Is is this all are the same as I see in your screen  where should be array.",
+                "beginOffset": 13173
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Oh, integer parse int.",
+                "beginOffset": 13249
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 13272
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, next time can give me.",
+                "beginOffset": 13276
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "I.  we said that it's array or what happened, but we changed to it.",
+                "beginOffset": 13303
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 13372
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Then this multipation, month multipation.",
+                "beginOffset": 13378
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Then this one to one, it's one again.",
+                "beginOffset": 13420
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Again this is one.",
+                "beginOffset": 13458
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Yes.",
+                "beginOffset": 13477
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Second time I'm getting five here and in 1,2,5,5, yes.",
+                "beginOffset": 13482
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Str number is string again.",
+                "beginOffset": 13537
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "This is number I'm converting into string and setting here.",
+                "beginOffset": 13565
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "I this is not.",
+                "beginOffset": 13626
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "This is uh, to get the string given the index and getting the number.",
+                "beginOffset": 13641
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah yes these one checking index this one.",
+                "beginOffset": 13711
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe this is not working like that in the Java nokay this work in this way in C#.",
+                "beginOffset": 13756
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Uh.",
+                "beginOffset": 13839
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 13843
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "As.",
+                "beginOffset": 13849
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK, OK.",
+                "beginOffset": 13853
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "I understand.",
+                "beginOffset": 13861
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe it's not working in the Java.",
+                "beginOffset": 13875
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "You mean the you cannot write the index number as  we can change that structure.",
+                "beginOffset": 13912
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "But new char?",
+                "beginOffset": 13993
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "OK, char at Ah OK, maybe not like that.",
+                "beginOffset": 14008
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Char at In that.",
+                "beginOffset": 14048
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "OK, I understand.",
+                "beginOffset": 14065
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Like this we should do like this.",
+                "beginOffset": 14083
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": 0.8
+            }
+        },
+        {
+            "text": {
+                "content": "OK, can you check?",
+                "beginOffset": 14117
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Uh OK OK oh, char at was.",
+                "beginOffset": 14137
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Why?",
+                "beginOffset": 14163
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "But they also and this is converted.",
+                "beginOffset": 14168
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "do you see char to how we call it.",
+                "beginOffset": 14206
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "How you can convert it to OK.",
+                "beginOffset": 14242
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "This will be changed OK.",
+                "beginOffset": 14272
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Uh.",
+                "beginOffset": 14297
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Character get that value?",
+                "beginOffset": 14301
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Something.",
+                "beginOffset": 14327
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "What? value.",
+                "beginOffset": 14339
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Can you try?",
+                "beginOffset": 14352
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Why?",
+                "beginOffset": 14366
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Where?",
+                "beginOffset": 14371
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "29..",
+                "beginOffset": 14379
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK, what do you see?",
+                "beginOffset": 14385
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "It's the same.",
+                "beginOffset": 14407
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "And there is a lot of string number cannot be resolved a lot of time strings.",
+                "beginOffset": 14423
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "String str number turn on the cannot be resolved where it's so.",
+                "beginOffset": 14501
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Oh yeah, we need to switch another task.",
+                "beginOffset": 14565
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Let's do.",
+                "beginOffset": 14606
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "for sure We need to.",
+                "beginOffset": 14617
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Let's switch to.",
+                "beginOffset": 14638
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Actually, most of the logic of the program is done, but yeah, we need to switch.",
+                "beginOffset": 14656
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "I think.",
+                "beginOffset": 14737
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Unfortunately.",
+                "beginOffset": 14746
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Let's do this.",
+                "beginOffset": 14761
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Actually we already overtime.",
+                "beginOffset": 14776
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Because it's not about solving the task, it's about that how we are working together.",
+                "beginOffset": 14807
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "So that's why,  it is about arrays.",
+                "beginOffset": 14893
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "we are going to beginning array..",
+                "beginOffset": 14930
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Want to the beginning of integers or job is to take the delay and find in an index end where the sum of the integer to the left of them.",
+                "beginOffset": 14964
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "OK, is equal to the sum of integers to the right of them.",
+                "beginOffset": 15101
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "If.",
+                "beginOffset": 15159
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "There is no index.",
+                "beginOffset": 15163
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "That would make this equal to minus one.",
+                "beginOffset": 15182
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "This one.",
+                "beginOffset": 15223
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK, let's say this is this.",
+                "beginOffset": 15233
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Your function will return the index three because at the third position of the array, the sum of the the website of the index one does not and some of the right and index both.",
+                "beginOffset": 15261
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Equal.",
+                "beginOffset": 15438
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 15445
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Ah, OK.",
+                "beginOffset": 15449
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "did You got no.",
+                "beginOffset": 15458
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Alright, as input you had to find start from here and here you have to sum them in which point, If the will be the same if say, let's say here.",
+                "beginOffset": 15474
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "These parts, sum of these parts are the same.",
+                "beginOffset": 15618
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Some of this part you can index of the four.",
+                "beginOffset": 15664
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 15709
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Uh yeah, let's say oh, your function will return the index one because at the first position of the array.",
+                "beginOffset": 15713
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, uh.",
+                "beginOffset": 15820
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Oh, this is a bit complex task.",
+                "beginOffset": 15828
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "What is it?",
+                "beginOffset": 15861
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "you see it here?.",
+                "beginOffset": 15874
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "yes.",
+                "beginOffset": 15893
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Then two.",
+                "beginOffset": 15898
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Minus 49.",
+                "beginOffset": 15908
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Again one.",
+                "beginOffset": 15918
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, there's a lot of uh.",
+                "beginOffset": 15929
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "And slow down.",
+                "beginOffset": 15954
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah, it's still me.",
+                "beginOffset": 15969
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK, it gives more more example.",
+                "beginOffset": 15991
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK, that's fine.",
+                "beginOffset": 16023
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "You are given the area OK at index zero, the left side.",
+                "beginOffset": 16040
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "In a zero even OK the right side.",
+                "beginOffset": 16096
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "And minus.",
+                "beginOffset": 16130
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "They both are equal to Zero then add it.",
+                "beginOffset": 16141
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK, this type, the container and the arrays are equal to zero in this problem.",
+                "beginOffset": 16182
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "OK England 0 is place where the left side and right side are equal.",
+                "beginOffset": 16261
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "What does it mean?",
+                "beginOffset": 16330
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "I didn't understand.",
+                "beginOffset": 16349
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "I index, 0 is the place where the left.",
+                "beginOffset": 16370
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "I. And right side   OK, 40,50,60.",
+                "beginOffset": 16410
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Minus 20 yes it means empty array equals to the zero.",
+                "beginOffset": 16444
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 16498
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "And this part also equals to the zero.",
+                "beginOffset": 16503
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "That means we have to return index 0.",
+                "beginOffset": 16542
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 16580
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 16585
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "I do.",
+                "beginOffset": 16590
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "this part did you understand?.",
+                "beginOffset": 16596
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Yes, this is zero.",
+                "beginOffset": 16628
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Yes, calculate them that it will be zero.",
+                "beginOffset": 16647
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Yes, OK.",
+                "beginOffset": 16690
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "This is index zero, Right part of the index index zero is zero, yes.",
+                "beginOffset": 16699
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 16768
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Left part of the index 0.",
+                "beginOffset": 16773
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Yes, there is no element  What did you say?",
+                "beginOffset": 16799
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "There is no element.",
+                "beginOffset": 16845
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Here it says If there is no element,then 0 it's.",
+                "beginOffset": 16867
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah, OK, yes.",
+                "beginOffset": 16916
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "That means we have to return return 0.",
+                "beginOffset": 16931
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "as a result we have to return exactly that index is right to left.",
+                "beginOffset": 16971
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK, OK, let's do it.",
+                "beginOffset": 17039
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "But how do you?",
+                "beginOffset": 17060
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Uh.",
+                "beginOffset": 17077
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "So let find some solution.",
+                "beginOffset": 17081
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "I usually write on the paper is easy to.",
+                "beginOffset": 17108
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": 0.8
+            }
+        },
+        {
+            "text": {
+                "content": "we can create some methods.",
+                "beginOffset": 17150
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "But first we have to find some solution.",
+                "beginOffset": 17178
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "How?",
+                "beginOffset": 17219
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "How calculate them?",
+                "beginOffset": 17224
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK, maybe we can do like that.",
+                "beginOffset": 17244
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Let's say we started from index 0.",
+                "beginOffset": 17275
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, current from left side.",
+                "beginOffset": 17310
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "To the right side to left side you have can calculate this one yes to check if it's equal to left side of the that selected index.",
+                "beginOffset": 17338
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Let's we didn't find it.",
+                "beginOffset": 17471
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Then we can move one more and calculate from there to here to then calculate this part oh I understand.",
+                "beginOffset": 17496
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 17600
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "But I'm sure  We will not finish on time.",
+                "beginOffset": 17605
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "it will return int.",
+                "beginOffset": 17648
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Array.",
+                "beginOffset": 17669
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "What should be our method name.",
+                "beginOffset": 17676
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Nice.",
+                "beginOffset": 17708
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 17714
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "It accept int array.",
+                "beginOffset": 17718
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Let us say numbers.",
+                "beginOffset": 17739
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Ok.",
+                "beginOffset": 17759
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "We need 1/4.",
+                "beginOffset": 17763
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Int equal to zero.  and We need one more, one more.",
+                "beginOffset": 17776
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Maybe.",
+                "beginOffset": 17828
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "You know.",
+                "beginOffset": 17835
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Numbers should be Here.",
+                "beginOffset": 17845
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "There.",
+                "beginOffset": 17869
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 17876
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah, we are checking.",
+                "beginOffset": 17882
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 17905
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 17910
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "I'm starting from right side of array, yes.",
+                "beginOffset": 17914
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 17958
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Until.",
+                "beginOffset": 17963
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Until end of the array?",
+                "beginOffset": 17970
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK,  OK.",
+                "beginOffset": 17994
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "And I have to sum them, yes, yes.",
+                "beginOffset": 18003
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Right side.",
+                "beginOffset": 18037
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "You know.",
+                "beginOffset": 18049
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Right side.",
+                "beginOffset": 18059
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Plus.",
+                "beginOffset": 18071
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Number list.",
+                "beginOffset": 18077
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Again the same problem I can say like that or not.",
+                "beginOffset": 18090
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Index of this one.",
+                "beginOffset": 18142
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "I do not know java accept it or not.",
+                "beginOffset": 18161
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "No.  over there and yes, we can use.",
+                "beginOffset": 18198
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, it can you?",
+                "beginOffset": 18235
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Give us use if probably.",
+                "beginOffset": 18251
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Right.",
+                "beginOffset": 18276
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Yes.",
+                "beginOffset": 18283
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Umm.",
+                "beginOffset": 18288
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Oh.",
+                "beginOffset": 18293
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 18297
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Oh, until it will reach, uh, two I selected yes, uh, I'm calculating right.",
+                "beginOffset": 18302
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "I'll clean this park.",
+                "beginOffset": 18378
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Yes.",
+                "beginOffset": 18400
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, again, other parts.",
+                "beginOffset": 18405
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Left part.",
+                "beginOffset": 18429
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Yes.",
+                "beginOffset": 18440
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 18445
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm.",
+                "beginOffset": 18450
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Right, not right.",
+                "beginOffset": 18455
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "Next time.",
+                "beginOffset": 18473
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Next side index.",
+                "beginOffset": 18484
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Left side left side.",
+                "beginOffset": 18501
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Here it should start from k from 0.",
+                "beginOffset": 18522
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Let's see this k from zero, but it will should be smaller than i.",
+                "beginOffset": 18558
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Hmm, yes, smaller than I. Uh, I am.",
+                "beginOffset": 18624
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "What's the K?",
+                "beginOffset": 18661
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 18676
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "And end of the calculator.",
+                "beginOffset": 18681
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "If.",
+                "beginOffset": 18708
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Right side equal to left side.",
+                "beginOffset": 18712
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Then return.",
+                "beginOffset": 18743
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "Yes, in other case.",
+                "beginOffset": 18756
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "In any other case.",
+                "beginOffset": 18776
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "You have to return minus 1.",
+                "beginOffset": 18795
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 18823
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "No, no.",
+                "beginOffset": 18827
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "I didn't complete yet.",
+                "beginOffset": 18835
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "You know.",
+                "beginOffset": 18858
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "And.",
+                "beginOffset": 18868
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Oh.",
+                "beginOffset": 18873
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "In Java method named lowercase..",
+                "beginOffset": 18877
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 18910
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "System out println.",
+                "beginOffset": 18916
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "You know.",
+                "beginOffset": 18936
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Can you run it?",
+                "beginOffset": 18947
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "then I will see.",
+                "beginOffset": 18964
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Expected after this tokej.",
+                "beginOffset": 18981
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "Simple man to complete expression, unresolved completion, segmental error on the token.",
+                "beginOffset": 19008
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "I'm not gonna be anything that.",
+                "beginOffset": 19097
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Do you know what it shows?",
+                "beginOffset": 19130
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "T.? Calculate equal side of array and underline certified.",
+                "beginOffset": 19157
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Can you drop down?",
+                "beginOffset": 19216
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "T. 10.",
+                "beginOffset": 19235
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "H wait I will Do.",
+                "beginOffset": 19242
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "what it says 5.",
+                "beginOffset": 19260
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "5 comes.",
+                "beginOffset": 19276
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "could you see?",
+                "beginOffset": 19286
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "No, I don't see it.",
+                "beginOffset": 19301
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "comes three.",
+                "beginOffset": 19322
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "It should be three.",
+                "beginOffset": 19336
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah yes, it's three.",
+                "beginOffset": 19356
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Let's this this one also.",
+                "beginOffset": 19378
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Uh, this one?",
+                "beginOffset": 19404
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 19418
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Um, one.",
+                "beginOffset": 19422
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah, it's it's it's working great.",
+                "beginOffset": 19432
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "So our time is also up.",
+                "beginOffset": 19468
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        }
+    ]
+}

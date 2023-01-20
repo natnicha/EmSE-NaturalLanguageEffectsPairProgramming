@@ -1,0 +1,2039 @@
+{
+    "documentSentiment": {
+        "magnitude": 92.4,
+        "score": 0
+    },
+    "language": "en",
+    "sentences": [
+        {
+            "text": {
+                "content": "yeah. sure.",
+                "beginOffset": 1
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "I think you you just need to you know go through the presentation yeah you know slides.",
+                "beginOffset": 14
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "yeah. sure.",
+                "beginOffset": 103
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "yeah, OK.",
+                "beginOffset": 116
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "great.",
+                "beginOffset": 126
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "so we are done with our setup right now we need to focus on the tasks.",
+                "beginOffset": 134
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "so just comment says convert string to camelcase.",
+                "beginOffset": 206
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "yeah. sure.",
+                "beginOffset": 257
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "ohh, i sorry?",
+                "beginOffset": 270
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 284
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "this will be one string that will be coming into our function.",
+                "beginOffset": 288
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "Oh.",
+                "beginOffset": 352
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "yeah, yeah yeah, we are in the Visual Studio code.",
+                "beginOffset": 356
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "I'm supposed to see what you're writing and you were supposed to see what I'm writing.",
+                "beginOffset": 407
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "waits.",
+                "beginOffset": 494
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "can you see by the way my?",
+                "beginOffset": 501
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 528
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "can you can you type something?",
+                "beginOffset": 532
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "yeah. sure.",
+                "beginOffset": 564
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "uh no.",
+                "beginOffset": 577
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "I I I just saw your marker moved power.",
+                "beginOffset": 584
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "I think uh yeah yeah.",
+                "beginOffset": 624
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": 0.8
+            }
+        },
+        {
+            "text": {
+                "content": "it doesn't matter.",
+                "beginOffset": 646
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "no problem.",
+                "beginOffset": 665
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "I am going to start.",
+                "beginOffset": 677
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "and as you can see me.",
+                "beginOffset": 698
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "I think there's no problem that.",
+                "beginOffset": 721
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "my first language was actually Java but I haven't practiced it since a long time.",
+                "beginOffset": 754
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 837
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "um it's a great language that.",
+                "beginOffset": 841
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "you started with sorry?",
+                "beginOffset": 872
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "you started with C++?",
+                "beginOffset": 896
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "yeah, yeah, that's that's good too that's actually HTML CSS the JavaScript  those are the languages of Internet, right?",
+                "beginOffset": 918
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "yeah, right.",
+                "beginOffset": 1039
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "so this is basically the basic template to start a Java program.",
+                "beginOffset": 1052
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "we need to create a method that can take a string.",
+                "beginOffset": 1118
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "uh yeah.",
+                "beginOffset": 1170
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "now I can see what you're typing.",
+                "beginOffset": 1179
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 1213
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "no, just uh I just created a template string so that I can work with it in in the method that I'm going to write.",
+                "beginOffset": 1219
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "now we need to do is this is an array of strings as input.",
+                "beginOffset": 1334
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "I'm sorry.",
+                "beginOffset": 1393
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "I’m not understand.",
+                "beginOffset": 1404
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "yeah, no problem.",
+                "beginOffset": 1426
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "it's just I'm just thinking and.",
+                "beginOffset": 1444
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "I can I'm not 100% sure if I'm doing it right.",
+                "beginOffset": 1478
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "you you you help me,  what I'm trying to do here is I'm trying to look through the string that I took uh one by one as in Java you know the string is already.",
+                "beginOffset": 1525
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "I think in most of the languages the string is already an array.",
+                "beginOffset": 1684
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "so it is it is easy to iterate over over the array through a loop.",
+                "beginOffset": 1750
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "so that's what I'm doing and I'm trying to find a delimiter which is the dash the underscore and and the dash underscore.",
+                "beginOffset": 1818
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "you're right.",
+                "beginOffset": 1941
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "this this dash and underscore those are the delimiters.",
+                "beginOffset": 1955
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "Ok, two dash or.",
+                "beginOffset": 2012
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "uh that's a dash and the next one is going to be underscore.",
+                "beginOffset": 2030
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "we need to have equals.",
+                "beginOffset": 2091
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "yes.",
+                "beginOffset": 2115
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "So what I'm checking here is if I get an underscore or a dash within my string.",
+                "beginOffset": 2120
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "I am going to change something within this string.",
+                "beginOffset": 2200
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "so if I get a dash then the next letter will be changed to uppercase.",
+                "beginOffset": 2251
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "how to change to uppercase in Java?",
+                "beginOffset": 2321
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "I think we are going to lose so much time.",
+                "beginOffset": 2357
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "we have only 15 minutes for this task.",
+                "beginOffset": 2400
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 2439
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 2445
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 2451
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 2458
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "thank you.",
+                "beginOffset": 2464
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": 0.8
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 2475
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "yeah sure.",
+                "beginOffset": 2482
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "sorry?",
+                "beginOffset": 2494
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "uh, I am not sure though.",
+                "beginOffset": 2502
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "is it working?",
+                "beginOffset": 2528
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 2543
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "yeah, yeah, yeah, sure, sure, sure.",
+                "beginOffset": 2547
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "I think yeah that that that makes sense to certain extent but I am not that familiar with that array or string method.",
+                "beginOffset": 2583
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 2702
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 2708
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "I think we need to move to the next task.",
+                "beginOffset": 2712
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "I'm this is you you.",
+                "beginOffset": 2754
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "I think it will work, I'm not able to run it for whatever reason.",
+                "beginOffset": 2775
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "yeah it will stay save.",
+                "beginOffset": 2842
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "I think I can just create another file this.",
+                "beginOffset": 2866
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "so yeah.  to keep multiplying and.",
+                "beginOffset": 2912
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 2948
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "go ahead save. to keep multiplying until we get a single digit number.",
+                "beginOffset": 2952
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "has 15 minutes and we need to write a function persistence.",
+                "beginOffset": 3024
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "you know we don't need another another task tutor, so we can create within this.",
+                "beginOffset": 3084
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "yeah yeah.",
+                "beginOffset": 3166
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 3177
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "within the same class just outside of the main method.",
+                "beginOffset": 3183
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "it is great to see return a number put the giant persistence repairs.",
+                "beginOffset": 3239
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "Nope I'm trying to.",
+                "beginOffset": 3310
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "in there every number, we can turn it into a string and string is an array then we can turn it back into numbers is there any easier way?",
+                "beginOffset": 3331
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 3469
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "I'm trying to you know convert the text number the receive number.",
+                "beginOffset": 3475
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "we received into the function through a text.",
+                "beginOffset": 3542
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "so, then we then we can loop over every single digit or what we could have done is we could have you know module used the modulus to separate out the digits, but that is a different way.",
+                "beginOffset": 3588
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "we can try.",
+                "beginOffset": 3775
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "if I go zero, then the first and the second string will get.",
+                "beginOffset": 3788
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "uh it doesn't make sense too.",
+                "beginOffset": 3849
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": -0.9
+            }
+        },
+        {
+            "text": {
+                "content": "I don't think it makes sense because when the the i will be 0, the number the first is it and the second is it will get multiplied.",
+                "beginOffset": 3880
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "but when the i will be one, then the 2nd and the 3rd digit will be multiplied.",
+                "beginOffset": 4012
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "oh, this is this is no problem because this is a local variable.",
+                "beginOffset": 4092
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "this will only work if we give it the only two two digit numbers.",
+                "beginOffset": 4157
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 4224
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "to use Google actually.",
+                "beginOffset": 4228
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "uh did you send anything?",
+                "beginOffset": 4252
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "but the first the first part makes sense.",
+                "beginOffset": 4278
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "it is singling out the digits uh static and dig some.",
+                "beginOffset": 4320
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "no problem.",
+                "beginOffset": 4374
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "to test that oh wow that's really simple.",
+                "beginOffset": 4386
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "interesting.",
+                "beginOffset": 4428
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": 0.8
+            }
+        },
+        {
+            "text": {
+                "content": "I am going to comment out this code and.",
+                "beginOffset": 4442
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "yeah and really it is it is understandable.",
+                "beginOffset": 4484
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 4529
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "hopefully.",
+                "beginOffset": 4535
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "I'm asking to leave this one.",
+                "beginOffset": 4546
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "yeah, I'm just going to take it out of the main function.",
+                "beginOffset": 4576
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "so that it doesn't run every time.",
+                "beginOffset": 4634
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "I run the main function.",
+                "beginOffset": 4669
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 4694
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 4698
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 4702
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "got it.",
+                "beginOffset": 4708
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "no problem.",
+                "beginOffset": 4716
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "and yeah.",
+                "beginOffset": 4729
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "yeah. that that thing.",
+                "beginOffset": 4739
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "it is giving us a compilation error.",
+                "beginOffset": 4763
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "uh, no. it's actually a single class.",
+                "beginOffset": 4801
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "and I don't think it should be a problem, but it is saying that a parenthesis.",
+                "beginOffset": 4839
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 4919
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 4923
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "OK.",
+                "beginOffset": 4927
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            }
+        },
+        {
+            "text": {
+                "content": "yeah, I think I. yeah I've added it to the uh solution already you can see in the main section.",
+                "beginOffset": 4931
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "the one you wrote it is I'm I've highlighted the section.",
+                "beginOffset": 5027
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "can you see it ?",
+                "beginOffset": 5085
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "um, it's I've highlighted it.",
+                "beginOffset": 5103
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "can you see it now?",
+                "beginOffset": 5133
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "in VSCode.",
+                "beginOffset": 5154
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 5165
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 5171
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "i am trying to run this program, but it is not working.",
+                "beginOffset": 5177
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "nope.",
+                "beginOffset": 5234
+            },
+            "sentiment": {
+                "magnitude": 0.8,
+                "score": -0.8
+            }
+        },
+        {
+            "text": {
+                "content": "no.",
+                "beginOffset": 5240
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "I don't think because of of the second.",
+                "beginOffset": 5244
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "uh problem we wrote.",
+                "beginOffset": 5284
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "I think it's because of the first one, but the one that we did.",
+                "beginOffset": 5305
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "and we I we were confident that this kind of work, camel cases.",
+                "beginOffset": 5369
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "yeah, right.",
+                "beginOffset": 5434
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "right.",
+                "beginOffset": 5447
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 5455
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "but the the weather has become really nice for the past couple of days.",
+                "beginOffset": 5461
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "how was your new year, by the way?",
+                "beginOffset": 5534
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "alright.",
+                "beginOffset": 5569
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "so I think I don't see any problem.",
+                "beginOffset": 5578
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "so the third task is equal sides of an array.",
+                "beginOffset": 5614
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "No problem.",
+                "beginOffset": 5661
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": 0.6
+            }
+        },
+        {
+            "text": {
+                "content": "task time for second one is over.",
+                "beginOffset": 5673
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "So, move to the next third task.",
+                "beginOffset": 5707
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "yet Nope and.",
+                "beginOffset": 5740
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "yeah I think it is one of those sorting problems.",
+                "beginOffset": 5754
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": -0.2
+            }
+        },
+        {
+            "text": {
+                "content": "sure.",
+                "beginOffset": 5805
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "so, we have been given an array debt the number the left digits and the right digits should be equal to the same number.",
+                "beginOffset": 5811
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "it something like that.",
+                "beginOffset": 5932
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "How we can look over the array from the forward side and the backward side? and that's from iterative program, we can.",
+                "beginOffset": 5956
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 6076
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "I'm just thinking how can we approach this problem.",
+                "beginOffset": 6082
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.  and all those found an answer for this problem.",
+                "beginOffset": 6135
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 6191
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "on online, on GitHub.",
+                "beginOffset": 6197
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "alright.",
+                "beginOffset": 6219
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "How is it working?",
+                "beginOffset": 6228
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 6248
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "I'm I'm trying to, you know internalize this?",
+                "beginOffset": 6254
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": -0.4
+            }
+        },
+        {
+            "text": {
+                "content": "how is this working?",
+                "beginOffset": 6300
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "I can provide you the answer and you can also take a look at it and see how is it working.",
+                "beginOffset": 6321
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": 0.1
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 6413
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 6420
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "The problem here is the code is written in JavaScript and we need to have it in Java.",
+                "beginOffset": 6426
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "right.",
+                "beginOffset": 6513
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "I can convert.",
+                "beginOffset": 6521
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "but I'm not sure that array dot slice and array dot reduce methods exist in Java.  in Java as well.",
+                "beginOffset": 6536
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "I've got another solution in Java.",
+                "beginOffset": 6637
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "but I don't understand this either.",
+                "beginOffset": 6672
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": -0.7
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 6709
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "array copy that’s something a built-in function, I think.",
+                "beginOffset": 6715
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "array copy, what’s array copy.",
+                "beginOffset": 6775
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "It’s a special position, scope.",
+                "beginOffset": 6808
+            },
+            "sentiment": {
+                "magnitude": 0,
+                "score": 0
+            }
+        },
+        {
+            "text": {
+                "content": "destination position, and round for.",
+                "beginOffset": 6842
+            },
+            "sentiment": {
+                "magnitude": 0.4,
+                "score": 0.4
+            }
+        },
+        {
+            "text": {
+                "content": "yeah. he somehow managed to understand the problem that, uh, you know the solution that we found.",
+                "beginOffset": 6879
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "so basically array copy is a built-in function and it takes the and you know source array the destination and the array the new array that it is going to produce and the destination all those sort of things.",
+                "beginOffset": 6977
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": 0.3
+            }
+        },
+        {
+            "text": {
+                "content": "so and and they're approaching it just like I was telling you that they're approaching it from the one side forward side of the array and the backward side of the area and they're trying to match you know those those elements and see when the sum of those elements are equal to one another.",
+                "beginOffset": 7185
+            },
+            "sentiment": {
+                "magnitude": 0.6,
+                "score": -0.6
+            }
+        },
+        {
+            "text": {
+                "content": "that's when they generate the results I think.",
+                "beginOffset": 7477
+            },
+            "sentiment": {
+                "magnitude": 0.3,
+                "score": -0.3
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 7524
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "I'm sorry?",
+                "beginOffset": 7530
+            },
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": -0.5
+            }
+        },
+        {
+            "text": {
+                "content": "uh yeah maybe three or 4 minutes.",
+                "beginOffset": 7542
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        },
+        {
+            "text": {
+                "content": "Yeah.",
+                "beginOffset": 7576
+            },
+            "sentiment": {
+                "magnitude": 0.7,
+                "score": 0.7
+            }
+        },
+        {
+            "text": {
+                "content": "Sure.",
+                "beginOffset": 7582
+            },
+            "sentiment": {
+                "magnitude": 0.2,
+                "score": 0.2
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 7589
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 7595
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "yeah.",
+                "beginOffset": 7602
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": 0.9
+            }
+        },
+        {
+            "text": {
+                "content": "I'm really upset.",
+                "beginOffset": 7608
+            },
+            "sentiment": {
+                "magnitude": 0.9,
+                "score": -0.9
+            }
+        },
+        {
+            "text": {
+                "content": "let's change it into an array.",
+                "beginOffset": 7627
+            },
+            "sentiment": {
+                "magnitude": 0.1,
+                "score": -0.1
+            }
+        }
+    ]
+}
